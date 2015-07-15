@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.0.38" FileSignature="44da1b4aa5f266a9f6a85b6082ecba193b654a4211dec60551c5e5ad1706b35cc13b2779eaadb1e93203fcfb2e5e97265c1b0301df06edcd680bbd012a2a7a0f0547b9dfe9aad7aafc2b00e7098859b4a9980c56a077040331f0a8dbc9ed0ade81ffb3d66a2741991a54d093e411f2d6b68f9fe0169685ea3a1e3c30c51d3fa839852bf0193f667c3409416e8109627d461f159bc0e24d69a3c96763b163c677a00576cf2c74b65245248053c54409896da2df6609453d6b70be5a9ce329f6514b4d8a3640bcaf568d4024a8d5a1dcc80ef46ff5eefbc4db1cc24e9cc654681a780972ba3e39c3de5fb23f8f3632adbc3720c40029b108ed577665585e374ef7">
+  <POU Name="POU" Id="{73014f3d-d07e-402b-b7b4-e910f1e3f2ca}" SpecialFunc="None">
+    <Declaration><![CDATA[FUNCTION_BLOCK POU
+VAR_INPUT
+END_VAR
+VAR_OUTPUT
+END_VAR
+VAR
+END_VAR
+]]></Declaration>
+    <Implementation>
+      <ST><![CDATA[]]></ST>
+    </Implementation>
+  </POU>
+</TcPlcObject>
